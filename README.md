@@ -4,10 +4,20 @@ A repository for all machine learning work
 
 ## Linear Regression
 
-Data
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+_Data_
 
-Result
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Salary Data](salary_data.png)
 
+_Predictive Result_
 
+![Salary Predictive Chart](salary_linear_regression.png)
+
+## Multi Linear Regression
+
+_Data_
+
+![](startup_data.png)
+
+_Predictive Result_
+
+![Startup Predictive Chart](startup_multi_linear_regression.png)
